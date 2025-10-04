@@ -5,7 +5,10 @@
 > *An undergraduate research project exploring the implementation of robotic theory through a functional SCARA robot prototype.*
 
 ## Demo
-![Scara_Robot_Control](imgs/scara.gif)
+<p align="center">
+  <img src="imgs/scara.gif" width="500" title="PIF Logo">
+</p>
+
 
 
 ## 🎯 Project Objectives
