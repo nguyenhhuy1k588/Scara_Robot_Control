@@ -1,0 +1,4 @@
+../Core/Src/scara.c:13:6:Init_Theta_Joint	24	static
+../Core/Src/scara.c:29:6:Set_Joint_Speed	16	static
+../Core/Src/scara.c:34:6:Trapezoidal_Profile	32	static
+../Core/Src/scara.c:67:6:Handle_Theta	16	static
